@@ -1,0 +1,8 @@
+N . N . N . n . 
+. b . B . B . B 
+n . n . n . n . 
+. b . B . b . B 
+N . N . N . n . 
+. b . B . n . B 
+N . N . N . n . 
+. b . B . B . B 
